@@ -8,4 +8,4 @@ Owner:  Shawn Millang
 
 Location:  Astoria, Oregon
 
-Goal:  Learning to setup, configure, and run my personal homelab.
+My primary goal for this site is to document my entry into building, configuring, and running a personal computer homelab.
