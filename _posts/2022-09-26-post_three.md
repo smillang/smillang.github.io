@@ -11,14 +11,14 @@ Setup a two node Proxmox Cluster.
 
 Proxmox Server 1 is running the following services
 <ul>
-- TrueNAS Scale
-- Plex Server
-- Media Stack
+    <li>TrueNAS Scale</li>
+    <li>Plex Server</li>
+    <li>Media Stack</li>
 </ul>
 Proxmox Server 2 is running the following services:
 <ul>
-- TrueNAS Scale
-- Pi-Hole
-- Unifi Controller
-- Kubernetes Cluster (1 Master + 2 Nodes)
+    <li>TrueNAS Scale</li>
+    <li>Pi-Hole</li>
+    <li>Unifi Controller</li>
+    <li>Kubernetes Cluster (1 Master + 2 Nodes)</li>
 </ul>
