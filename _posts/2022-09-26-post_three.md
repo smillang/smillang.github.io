@@ -18,4 +18,4 @@ Proxmox Server 2 is running the following services:
     * TrueNAS Scale
     * Pi-Hole
     * Unifi Controller
-    * Kubernetes Cluster (Master + 2 Nodes)
+    * Kubernetes Cluster (1 Master + 2 Nodes)
