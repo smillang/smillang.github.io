@@ -2,6 +2,7 @@
 layout: post
 title: Proxmox Servers
 categories: [Homelab, Software]
+tags: Proxmox
 ---
 
 # Proxmox
