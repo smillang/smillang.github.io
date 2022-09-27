@@ -6,4 +6,15 @@ categories: [Homelab, Software]
 
 # Proxmox
 
-Setup two(2) Proxmox servers today, each of them is hosting a TrueNAS Scale server.
+Setup a two node Proxmox Cluster.
+
+Proxmox Server 1 is running the following services:
+* TrueNAS Scale
+* Plex Server
+* Media Stack
+
+Proxmox Server 2 is running the following services:
+* TrueNAS Scale
+* Pi-Hole
+* Unifi Controller
+* Kubernetes Cluster (Master + 2 Nodes)
