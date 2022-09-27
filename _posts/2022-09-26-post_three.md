@@ -10,12 +10,14 @@ tags: Proxmox
 Setup a two node Proxmox Cluster.
 
 Proxmox Server 1 is running the following services
+
 <ul>
     <li>TrueNAS Scale</li>
     <li>Plex Server</li>
     <li>Media Stack</li>
 </ul>
-Proxmox Server 2 is running the following services:
+Proxmox Server 2 is running the following services
+
 <ul>
     <li>TrueNAS Scale</li>
     <li>Pi-Hole</li>
