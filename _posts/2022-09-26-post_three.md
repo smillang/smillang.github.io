@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pi-Hole
+title: Proxmox Servers
 categories: [Homelab, Software]
 ---
 
