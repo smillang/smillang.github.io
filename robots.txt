@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://smillang.github.io/smillang.github.io/sitemap.xml
